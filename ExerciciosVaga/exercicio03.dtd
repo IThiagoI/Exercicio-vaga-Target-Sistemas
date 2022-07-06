@@ -1,0 +1,4 @@
+<!ELEMENT rowmain (row+)>
+<!ELEMENT row (dia,valor)>
+<!ELEMENT dia (#PCDATA)>
+<!ELEMENT valor (#PCDATA)>
